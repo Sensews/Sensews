@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="bott.png"  />
+  <img height="200" src="distopy.png"  />
 </div>
 
 ###
