@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left">•  Studying for a bachelor's degree in cybersecurity at [PUCPR](https://www.pucpr.br/).<br>•  Currently learning React and Pentest! <br><br>• I'm from Brazil!<br>• Pronouns: He/Him</p>
+
+###
+
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="react logo"  />
@@ -35,10 +39,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=sensew&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
 </div>
-
-###
-
-<p align="left">•  Studying for a bachelor's degree in cybersecurity at [PUCPR](https://www.pucpr.br/).<br><br>•  Currently learning React and Pentest! <br><br>• I'm from Brazil!<br><br>• Pronouns: He/Him</p>
 
 ###
 
