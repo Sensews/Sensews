@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgur.com/a/nY4J1YA.png"  />
+  <img height="200" src="banner.png"  />
 </div>
 
 ###
