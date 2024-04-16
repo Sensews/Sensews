@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">•  Studying for a bachelor's degree in cybersecurity at [PUCPR](https://www.pucpr.br/).<br><br>•  Currently learning React and Pentest! <br><br>• I'm from Brazil!<br><br>• Pronouns: He/Him</p>
+<p align="left"> •  Studying for a bachelor's degree in cybersecurity at [PUCPR](https://www.pucpr.br/).<br><br> •  Currently learning React and Pentest! <br><br> • I'm from Brazil!<br><br> • Pronouns: He/Him</p>
 
 ###
 
